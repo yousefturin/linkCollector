@@ -17,8 +17,9 @@ To
 `<img src="/static/images/your_image.png" alt="Image Description">`
 
 ### Copy your github url
-`<a style="text-decoration:none" href="https://github.com/yousefturin" class="animated-link">`
-and replace this code to: `<a style="text-decoration:none" href="https://github.com/your_url" class="animated-link">`
+`<a style="text-decoration:none" href="https://github.com/yousefturin" class="animated-link">`<br>
+and replace this code to: 
+<br>`<a style="text-decoration:none" href="https://github.com/your_url" class="animated-link">`
 
 ### Copy your Linkedin url
 `<a style="text-decoration:none" href="https://www.linkedin.com/in/yusef-rayyan/" class="animated-link">`
