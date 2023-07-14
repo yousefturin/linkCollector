@@ -7,8 +7,6 @@ it's a small web application that you can place all your links in one website
 ### Replace the image# What is the links tree collector
 it's a small web application that you can place all your links in one website
 
-<img src="https://github.com/yousefturin/links_tree_collector/assets/94796673/a1a11989-ed96-4b0a-b865-b6800e91c218">
-
 # To use this web application
 ### Replace the image
 First, you need to upload your image to 
