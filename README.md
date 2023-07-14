@@ -23,7 +23,7 @@ Change the image name in the code
         <img src="/static/images/your_image.png" alt="Image Description">
 
 ### Copy your GitHub URL
-        `<a style="text-decoration:none" href="https://github.com/yousefturin" class="animated-link">`<br>
+        <a style="text-decoration:none" href="https://github.com/yousefturin" class="animated-link">
         
 **and replace this code to:**
 
